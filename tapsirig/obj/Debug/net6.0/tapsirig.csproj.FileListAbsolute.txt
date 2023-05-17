@@ -1,0 +1,15 @@
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\tapsirig\tapsirig\obj\Debug\net6.0\tapsirig.csproj.AssemblyReference.cache
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\tapsirig\tapsirig\obj\Debug\net6.0\tapsirig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\tapsirig\tapsirig\obj\Debug\net6.0\tapsirig.AssemblyInfoInputs.cache
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\tapsirig\tapsirig\obj\Debug\net6.0\tapsirig.AssemblyInfo.cs
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\tapsirig\tapsirig\obj\Debug\net6.0\tapsirig.csproj.CoreCompileInputs.cache
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\tapsirig\tapsirig\bin\Debug\net6.0\tapsirig.exe
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\tapsirig\tapsirig\bin\Debug\net6.0\tapsirig.deps.json
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\tapsirig\tapsirig\bin\Debug\net6.0\tapsirig.runtimeconfig.json
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\tapsirig\tapsirig\bin\Debug\net6.0\tapsirig.dll
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\tapsirig\tapsirig\bin\Debug\net6.0\tapsirig.pdb
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\tapsirig\tapsirig\obj\Debug\net6.0\tapsirig.dll
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\tapsirig\tapsirig\obj\Debug\net6.0\refint\tapsirig.dll
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\tapsirig\tapsirig\obj\Debug\net6.0\tapsirig.pdb
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\tapsirig\tapsirig\obj\Debug\net6.0\tapsirig.genruntimeconfig.cache
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\tapsirig\tapsirig\obj\Debug\net6.0\ref\tapsirig.dll
